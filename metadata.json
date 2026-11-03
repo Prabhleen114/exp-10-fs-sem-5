@@ -1,0 +1,7 @@
+{
+  "name": "OmniSync Social – Multi-Channel Orchestration System",
+  "description": "Enterprise multi-channel social media scheduling, analytics, draft management, and content calendar system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
